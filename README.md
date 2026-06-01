@@ -26,14 +26,6 @@ qué inspeccionar, cuándo y por qué.
 Trabajamos en tres áreas de ingeniería: **Mecánica**, **Ductos** y **RBI**
 (Inspección Basada en Riesgo).
 
-<div align="center">
-
-| 20+ | 1000+ | 10+ | 100% |
-|:---:|:---:|:---:|:---:|
-| **Años de experiencia** | **Proyectos completados** | **Clientes activos** | **Compromiso con la calidad** |
-
-</div>
-
 ---
 
 ## Qué hacemos
@@ -54,7 +46,7 @@ Trabajamos en tres áreas de ingeniería: **Mecánica**, **Ductos** y **RBI**
 
 ## Ecosistema de herramientas
 
-Desarrollamos software propio para **liberar tiempo de ingeniería**: automatizamos lo
+Software propio para **liberar tiempo de ingeniería**: automatizamos lo
 repetitivo —extraer, ordenar, calcular, graficar— para que el ingeniero use su tiempo en
 analizar y decidir.
 
@@ -84,17 +76,6 @@ industrias y canal de contacto.
 Plantillas estandarizadas y scripts de apoyo para cada área de ingeniería
 (**RBI**, **Ductos**, **Mecánica**) y normalización de datos de laboratorio.
 Son repositorios **internos privados**, accesibles para el equipo de SINTEC.
-
----
-
-## Cómo trabajamos
-
-- **La IA propone, el ingeniero decide.** Ningún cálculo, criterio de aceptación o
-  intervalo de inspección tiene validez sin revisión y firma de un ingeniero responsable.
-- **No inventamos datos.** Si falta un dato o un parámetro normativo, se pide; no se rellena.
-- **Trazabilidad y norma citada** en todo trabajo crítico de seguridad e integridad.
-
----
 
 ## Contacto
 
